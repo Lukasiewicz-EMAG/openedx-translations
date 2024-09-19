@@ -3161,7 +3161,7 @@ msgstr[1] ""
 "\n"
 "                            Ustawiłeś cel nauki {start_bold}%(days_per_week)s razy w tygodniu na "
 "%(course_name)s{end_bold}. Jeszcze go nie osiągnąłeś, ale wciąż masz czas, aby go zrealizować!\n"
-"     
+"                        "    
 
 #: lms/djangoapps/course_goals/templates/course_goals/edx_ace/goalreminder/email/body.html:78
 msgid ""
