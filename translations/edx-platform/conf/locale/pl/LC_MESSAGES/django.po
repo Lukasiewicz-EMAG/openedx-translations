@@ -23416,29 +23416,9 @@ msgid "Explore a world of knowledge and enhance your skills with our diverse ran
 msgstr "Przeglądaj świat wiedzy i rozszerzaj swoje zdolności z naszymi kursami"
 
 #: themes/indigo/lms/templates/footer.html
-msgid "Contact Us"
-msgstr "Kontakt"
-
-#: themes/indigo/lms/templates/footer.html
 msgid "About Us"
 msgstr "O nas"
 
 #: themes/indigo/lms/templates/footer.html
-msgid "Blog"
-msgstr "Blog"
-
-#: themes/indigo/lms/templates/footer.html
-msgid "Donate"
-msgstr "Przekaż darowiznę"
-
-#: themes/indigo/lms/templates/footer.html
 msgid "Terms of Sevice"
 msgstr "Warunki korzystania z Serwisu"
-
-#: themes/indigo/lms/templates/footer.html
-msgid "Privacy Policy"
-msgstr "Polityka prywatności"
-
-#: themes/indigo/lms/templates/footer.html
-msgid "Help"
-msgstr "Pomoc"

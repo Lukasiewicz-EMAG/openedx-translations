@@ -23616,29 +23616,10 @@ msgid "Explore a world of knowledge and enhance your skills with our diverse ran
 msgstr ""
 
 #: themes/indigo/lms/templates/footer.html
-msgid "Contact Us"
-msgstr ""
-
-#: themes/indigo/lms/templates/footer.html
 msgid "About Us"
-msgstr ""
-
-#: themes/indigo/lms/templates/footer.html
-msgid "Blog"
-msgstr ""
-
-#: themes/indigo/lms/templates/footer.html
-msgid "Donate"
 msgstr ""
 
 #: themes/indigo/lms/templates/footer.html
 msgid "Terms of Sevice"
 msgstr ""
 
-#: themes/indigo/lms/templates/footer.html
-msgid "Privacy Policy"
-msgstr ""
-
-#: themes/indigo/lms/templates/footer.html
-msgid "Help"
-msgstr ""
