@@ -23072,7 +23072,7 @@ msgstr ""
 #. directive in date-time formats. See http://strftime.org for details.
 msgctxt "weekday name"
 msgid "Monday"
-msgstr ""
+msgstr "Poniedziałek"
 
 #: common/djangoapps/util/date_utils.py:278
 #. Translators: this is a weekday name that will be used when displaying
@@ -23080,7 +23080,7 @@ msgstr ""
 #. directive in date-time formats. See http://strftime.org for details.
 msgctxt "weekday name"
 msgid "Tuesday"
-msgstr ""
+msgstr "Wtorek"
 
 #: common/djangoapps/util/date_utils.py:282
 #. Translators: this is a weekday name that will be used when displaying
@@ -23088,7 +23088,7 @@ msgstr ""
 #. directive in date-time formats. See http://strftime.org for details.
 msgctxt "weekday name"
 msgid "Wednesday"
-msgstr ""
+msgstr "Środa"
 
 #: common/djangoapps/util/date_utils.py:286
 #. Translators: this is a weekday name that will be used when displaying
@@ -23096,7 +23096,7 @@ msgstr ""
 #. directive in date-time formats. See http://strftime.org for details.
 msgctxt "weekday name"
 msgid "Thursday"
-msgstr ""
+msgstr "Czwartek"
 
 #: common/djangoapps/util/date_utils.py:290
 #. Translators: this is a weekday name that will be used when displaying
@@ -23104,7 +23104,7 @@ msgstr ""
 #. directive in date-time formats. See http://strftime.org for details.
 msgctxt "weekday name"
 msgid "Friday"
-msgstr ""
+msgstr "Piątek"
 
 #: common/djangoapps/util/date_utils.py:294
 #. Translators: this is a weekday name that will be used when displaying
@@ -23112,7 +23112,7 @@ msgstr ""
 #. directive in date-time formats. See http://strftime.org for details.
 msgctxt "weekday name"
 msgid "Saturday"
-msgstr ""
+msgstr "Sobota"
 
 #: common/djangoapps/util/date_utils.py:298
 #. Translators: this is a weekday name that will be used when displaying
@@ -23120,7 +23120,7 @@ msgstr ""
 #. directive in date-time formats. See http://strftime.org for details.
 msgctxt "weekday name"
 msgid "Sunday"
-msgstr ""
+msgstr "Niedziela"
 
 #: common/djangoapps/util/date_utils.py:305
 #. Translators: this is an abbreviated weekday name that will be used when
@@ -23128,7 +23128,7 @@ msgstr ""
 #. directive in date-time formats. See http://strftime.org for details.
 msgctxt "abbreviated weekday name"
 msgid "Mon"
-msgstr ""
+msgstr "Pon"
 
 #: common/djangoapps/util/date_utils.py:309
 #. Translators: this is an abbreviated weekday name that will be used when
@@ -23136,7 +23136,7 @@ msgstr ""
 #. directive in date-time formats. See http://strftime.org for details.
 msgctxt "abbreviated weekday name"
 msgid "Tue"
-msgstr ""
+msgstr "Wt"
 
 #: common/djangoapps/util/date_utils.py:313
 #. Translators: this is an abbreviated weekday name that will be used when
@@ -23144,7 +23144,7 @@ msgstr ""
 #. directive in date-time formats. See http://strftime.org for details.
 msgctxt "abbreviated weekday name"
 msgid "Wed"
-msgstr ""
+msgstr "Śr"
 
 #: common/djangoapps/util/date_utils.py:317
 #. Translators: this is an abbreviated weekday name that will be used when
@@ -23152,7 +23152,7 @@ msgstr ""
 #. directive in date-time formats. See http://strftime.org for details.
 msgctxt "abbreviated weekday name"
 msgid "Thu"
-msgstr ""
+msgstr "Czw"
 
 #: common/djangoapps/util/date_utils.py:321
 #. Translators: this is an abbreviated weekday name that will be used when
@@ -23160,7 +23160,7 @@ msgstr ""
 #. directive in date-time formats. See http://strftime.org for details.
 msgctxt "abbreviated weekday name"
 msgid "Fri"
-msgstr ""
+msgstr "Pią"
 
 #: common/djangoapps/util/date_utils.py:325
 #. Translators: this is an abbreviated weekday name that will be used when
@@ -23168,7 +23168,7 @@ msgstr ""
 #. directive in date-time formats. See http://strftime.org for details.
 msgctxt "abbreviated weekday name"
 msgid "Sat"
-msgstr ""
+msgstr "Sob"
 
 #: common/djangoapps/util/date_utils.py:329
 #. Translators: this is an abbreviated weekday name that will be used when
@@ -23176,7 +23176,7 @@ msgstr ""
 #. directive in date-time formats. See http://strftime.org for details.
 msgctxt "abbreviated weekday name"
 msgid "Sun"
-msgstr ""
+msgstr "Nie"
 
 #: common/djangoapps/util/date_utils.py:336
 #. Translators: this is an abbreviated month name that will be used when
@@ -23184,7 +23184,7 @@ msgstr ""
 #. directive in date-time formats. See http://strftime.org for details.
 msgctxt "abbreviated month name"
 msgid "Jan"
-msgstr ""
+msgstr "Sty"
 
 #: common/djangoapps/util/date_utils.py:340
 #. Translators: this is an abbreviated month name that will be used when
@@ -23192,7 +23192,7 @@ msgstr ""
 #. directive in date-time formats. See http://strftime.org for details.
 msgctxt "abbreviated month name"
 msgid "Feb"
-msgstr ""
+msgstr "Lut"
 
 #: common/djangoapps/util/date_utils.py:344
 #. Translators: this is an abbreviated month name that will be used when
@@ -23200,7 +23200,7 @@ msgstr ""
 #. directive in date-time formats. See http://strftime.org for details.
 msgctxt "abbreviated month name"
 msgid "Mar"
-msgstr ""
+msgstr "Marz"
 
 #: common/djangoapps/util/date_utils.py:348
 #. Translators: this is an abbreviated month name that will be used when
@@ -23208,7 +23208,7 @@ msgstr ""
 #. directive in date-time formats. See http://strftime.org for details.
 msgctxt "abbreviated month name"
 msgid "Apr"
-msgstr ""
+msgstr "Kwi"
 
 #: common/djangoapps/util/date_utils.py:352
 #. Translators: this is an abbreviated month name that will be used when
@@ -23216,7 +23216,7 @@ msgstr ""
 #. directive in date-time formats. See http://strftime.org for details.
 msgctxt "abbreviated month name"
 msgid "May"
-msgstr ""
+msgstr "Maj"
 
 #: common/djangoapps/util/date_utils.py:356
 #. Translators: this is an abbreviated month name that will be used when
@@ -23224,7 +23224,7 @@ msgstr ""
 #. directive in date-time formats. See http://strftime.org for details.
 msgctxt "abbreviated month name"
 msgid "Jun"
-msgstr ""
+msgstr "Czer"
 
 #: common/djangoapps/util/date_utils.py:360
 #. Translators: this is an abbreviated month name that will be used when
@@ -23232,7 +23232,7 @@ msgstr ""
 #. directive in date-time formats. See http://strftime.org for details.
 msgctxt "abbreviated month name"
 msgid "Jul"
-msgstr ""
+msgstr "Lip"
 
 #: common/djangoapps/util/date_utils.py:364
 #. Translators: this is an abbreviated month name that will be used when
@@ -23240,7 +23240,7 @@ msgstr ""
 #. directive in date-time formats. See http://strftime.org for details.
 msgctxt "abbreviated month name"
 msgid "Aug"
-msgstr ""
+msgstr "Sier"
 
 #: common/djangoapps/util/date_utils.py:368
 #. Translators: this is an abbreviated month name that will be used when
@@ -23248,7 +23248,7 @@ msgstr ""
 #. directive in date-time formats. See http://strftime.org for details.
 msgctxt "abbreviated month name"
 msgid "Sep"
-msgstr ""
+msgstr "Wrz"
 
 #: common/djangoapps/util/date_utils.py:372
 #. Translators: this is an abbreviated month name that will be used when
@@ -23256,7 +23256,7 @@ msgstr ""
 #. directive in date-time formats. See http://strftime.org for details.
 msgctxt "abbreviated month name"
 msgid "Oct"
-msgstr ""
+msgstr "Paź"
 
 #: common/djangoapps/util/date_utils.py:376
 #. Translators: this is an abbreviated month name that will be used when
@@ -23264,7 +23264,7 @@ msgstr ""
 #. directive in date-time formats. See http://strftime.org for details.
 msgctxt "abbreviated month name"
 msgid "Nov"
-msgstr ""
+msgstr "Lis"
 
 #: common/djangoapps/util/date_utils.py:380
 #. Translators: this is an abbreviated month name that will be used when
@@ -23272,7 +23272,7 @@ msgstr ""
 #. directive in date-time formats. See http://strftime.org for details.
 msgctxt "abbreviated month name"
 msgid "Dec"
-msgstr ""
+msgstr "Gru"
 
 #: common/djangoapps/util/date_utils.py:387
 #. Translators: this is a month name that will be used when displaying
@@ -23280,7 +23280,7 @@ msgstr ""
 #. date-time formats. See http://strftime.org for details.
 msgctxt "month name"
 msgid "January"
-msgstr ""
+msgstr "Styczeń"
 
 #: common/djangoapps/util/date_utils.py:391
 #. Translators: this is a month name that will be used when displaying
@@ -23288,7 +23288,7 @@ msgstr ""
 #. date-time formats. See http://strftime.org for details.
 msgctxt "month name"
 msgid "February"
-msgstr ""
+msgstr "Luty"
 
 #: common/djangoapps/util/date_utils.py:395
 #. Translators: this is a month name that will be used when displaying
@@ -23296,7 +23296,7 @@ msgstr ""
 #. date-time formats. See http://strftime.org for details.
 msgctxt "month name"
 msgid "March"
-msgstr ""
+msgstr "Marzec"
 
 #: common/djangoapps/util/date_utils.py:399
 #. Translators: this is a month name that will be used when displaying
@@ -23304,7 +23304,7 @@ msgstr ""
 #. date-time formats. See http://strftime.org for details.
 msgctxt "month name"
 msgid "April"
-msgstr ""
+msgstr "Kwiecień"
 
 #: common/djangoapps/util/date_utils.py:403
 #. Translators: this is a month name that will be used when displaying
@@ -23312,7 +23312,7 @@ msgstr ""
 #. date-time formats. See http://strftime.org for details.
 msgctxt "month name"
 msgid "May"
-msgstr ""
+msgstr "Maj"
 
 #: common/djangoapps/util/date_utils.py:407
 #. Translators: this is a month name that will be used when displaying
@@ -23320,7 +23320,7 @@ msgstr ""
 #. date-time formats. See http://strftime.org for details.
 msgctxt "month name"
 msgid "June"
-msgstr ""
+msgstr "Czerwiec"
 
 #: common/djangoapps/util/date_utils.py:411
 #. Translators: this is a month name that will be used when displaying
@@ -23328,7 +23328,7 @@ msgstr ""
 #. date-time formats. See http://strftime.org for details.
 msgctxt "month name"
 msgid "July"
-msgstr ""
+msgstr "Lipiec"
 
 #: common/djangoapps/util/date_utils.py:415
 #. Translators: this is a month name that will be used when displaying
@@ -23336,7 +23336,7 @@ msgstr ""
 #. date-time formats. See http://strftime.org for details.
 msgctxt "month name"
 msgid "August"
-msgstr ""
+msgstr "Sierpień"
 
 #: common/djangoapps/util/date_utils.py:419
 #. Translators: this is a month name that will be used when displaying
@@ -23344,7 +23344,7 @@ msgstr ""
 #. date-time formats. See http://strftime.org for details.
 msgctxt "month name"
 msgid "September"
-msgstr ""
+msgstr "Wrzesień"
 
 #: common/djangoapps/util/date_utils.py:423
 #. Translators: this is a month name that will be used when displaying
@@ -23352,7 +23352,7 @@ msgstr ""
 #. date-time formats. See http://strftime.org for details.
 msgctxt "month name"
 msgid "October"
-msgstr ""
+msgstr "Październik"
 
 #: common/djangoapps/util/date_utils.py:427
 #. Translators: this is a month name that will be used when displaying
@@ -23360,7 +23360,7 @@ msgstr ""
 #. date-time formats. See http://strftime.org for details.
 msgctxt "month name"
 msgid "November"
-msgstr ""
+msgstr "Listopad"
 
 #: common/djangoapps/util/date_utils.py:431
 #. Translators: this is a month name that will be used when displaying
@@ -23368,33 +23368,77 @@ msgstr ""
 #. date-time formats. See http://strftime.org for details.
 msgctxt "month name"
 msgid "December"
-msgstr ""
+msgstr "Grudzień"
 
 #: lms/templates/courseware/course_about.html:274
 #: lms/templates/enroll_staff.html:34
 msgctxt "self"
 msgid "Enroll"
-msgstr ""
+msgstr "Rozpocznij"
 
 #: lms/templates/courseware/course_about.html:279
 msgctxt "self"
 msgid "enroll"
-msgstr ""
+msgstr "rozpocznij"
 
 #: lms/templates/seq_block.html:32 lms/templates/seq_block.html:140
 #. Translators: A button for showing the Previous Unit
 msgctxt "unit"
 msgid "Previous"
-msgstr ""
+msgstr "Poprzedni"
 
 #: lms/templates/seq_block.html:36 lms/templates/seq_block.html:144
 #. Translators: A button for showing the Next Unit
 msgctxt "unit"
 msgid "Next"
-msgstr ""
+msgstr "Następny"
 
 #: lms/templates/ccx/enrollment.html:57
 #: lms/templates/instructor/instructor_dashboard_2/membership.html:53
 msgctxt "someone"
 msgid "Enroll"
-msgstr ""
+msgstr "Rozpocznij"
+
+#: themes/indigo/lms/templates/registration/account_activation_sidebar_notice.html  
+msgid "Notice"
+msgstr "Uwaga"
+
+#: themes/indigo/lms/templates/registration/account_activation_sidebar_notice.html  
+msgid "Resend Activation Email"
+msgstr "Wyślij ponownie maila z aktywacją"
+
+#: themes/indigo/lms/templates/courseware/courses.html  
+msgid "Unlock Your Potential: Discover New Courses Today!"
+msgstr "Odblokuj swój potencjał: Odkryj nowe kursy!"
+
+#: themes/indigo/lms/templates/courseware/courses.html  
+msgid "Explore a world of knowledge and enhance your skills with our diverse range of courses"
+msgstr "Przeglądaj świat wiedzy i rozszerzaj swoje zdolności z naszymi kursami"
+
+#: themes/indigo/lms/templates/footer.html
+msgid "Contact Us"
+msgstr "Kontakt"
+
+#: themes/indigo/lms/templates/footer.html
+msgid "About Us"
+msgstr "O nas"
+
+#: themes/indigo/lms/templates/footer.html
+msgid "Blog"
+msgstr "Blog"
+
+#: themes/indigo/lms/templates/footer.html
+msgid "Donate"
+msgstr "Przekaż darowiznę"
+
+#: themes/indigo/lms/templates/footer.html
+msgid "Terms of Sevice"
+msgstr "Warunki korzystania z Serwisu"
+
+#: themes/indigo/lms/templates/footer.html
+msgid "Privacy Policy"
+msgstr "Polityka prywatności"
+
+#: themes/indigo/lms/templates/footer.html
+msgid "Help"
+msgstr "Pomoc"
