@@ -369,7 +369,7 @@ msgstr "Usunięta grupa"
 #. comma, which is used as a separator between each group.
 #, python-brace-format
 msgid "{previous_groups}, {current_group}"
-msgstr "{poprzednie_grupy}, {aktualna_grupa}"
+msgstr "{previous_groups}, {current_group}"
 
 #: cms/djangoapps/contentstore/utils.py:1031
 #: cms/djangoapps/contentstore/views/block.py:272
@@ -935,7 +935,7 @@ msgstr "%"
 #: cms/djangoapps/contentstore/xblock_storage_handlers/view_handlers.py:1562
 #, python-brace-format
 msgid "{section_or_subsection} \"{display_name}\""
-msgstr "{sekcja_lub_podsekcja} \"{nazwa_wyświetlana}\""
+msgstr "{section_or_subsection} \"{display_name}\""
 
 #: cms/djangoapps/course_creators/models.py:40
 msgid "unrequested"
@@ -1642,7 +1642,7 @@ msgstr "{html_start}To {account_or_email} zostało już {activated_or_confirmed}
 #: common/djangoapps/student/views/management.py:598
 #, python-brace-format
 msgid "{html_start}Success{html_end} You have {activated_or_confirmed} your {account_or_email}."
-msgstr "{html_start}Sukces{html_end} Aktywowałeś lub potwierdziłeś swoje {account_or_email}."
+msgstr "{html_start}Sukces{html_end} {activated_or_confirmed} swoje {account_or_email}."
 
 #: common/djangoapps/student/views/management.py:611
 #, python-brace-format
@@ -3158,6 +3158,10 @@ msgstr[0] ""
 "%(course_name)s{end_bold}. Jeszcze go nie osiągnąłeś, ale wciąż masz czas, aby go zrealizować!\n"
 "                            "
 msgstr[1] ""
+"\n"
+"                            Ustawiłeś cel nauki {start_bold}%(days_per_week)s razy w tygodniu na "
+"%(course_name)s{end_bold}. Jeszcze go nie osiągnąłeś, ale wciąż masz czas, aby go zrealizować!\n"
+"     
 
 #: lms/djangoapps/course_goals/templates/course_goals/edx_ace/goalreminder/email/body.html:78
 msgid ""
@@ -11214,7 +11218,7 @@ msgstr "Ten komponent jest nieaktualny. Biblioteka ma nową zawartość."
 #. double quotes)
 #, python-brace-format
 msgid "{refresh_icon} Update now."
-msgstr "↻ Zaktualizuj teraz."
+msgstr "{refresh_icon} Zaktualizuj teraz."
 
 #: xmodule/library_content_block.py:641
 msgid "Library is invalid, corrupt, or has been deleted."
@@ -16946,7 +16950,7 @@ msgstr "To jest prywatna dyskusja. Nie masz uprawnień do przeglądania tej dysk
 msgid "%s discussion started"
 msgid_plural "%s discussions started"
 msgstr[0] "Rozpoczęto dyskusję %s"
-msgstr[1] ""
+msgstr[1] "Rozpoczęto dyskusje %s"
 
 #: lms/djangoapps/discussion/templates/discussion/discussion_profile_page.html:56
 #: lms/templates/discussion/_user_profile.html:9
@@ -16954,7 +16958,7 @@ msgstr[1] ""
 msgid "%s comment"
 msgid_plural "%s comments"
 msgstr[0] "komentarz %s"
-msgstr[1] ""
+msgstr[1] "komentarze %s"
 
 #: lms/djangoapps/discussion/templates/discussion/maintenance_fragment.html:10
 msgid "Discussion unavailable"
