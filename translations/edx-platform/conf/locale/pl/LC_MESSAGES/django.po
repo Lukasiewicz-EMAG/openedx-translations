@@ -19391,6 +19391,10 @@ msgstr ""
 msgid "Enroll Now"
 msgstr ""
 
+#: lms/templates/courseware/course_about.html
+msgid "Course Summary"
+msgstr "Podsumowanie"
+
 #: lms/templates/courseware/course_about.html:146
 msgid "View About Page in studio"
 msgstr ""
