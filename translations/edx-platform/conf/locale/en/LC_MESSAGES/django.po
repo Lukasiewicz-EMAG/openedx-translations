@@ -21127,6 +21127,14 @@ msgstr ""
 msgid "Discover New"
 msgstr ""
 
+#: lms/templates/header/navbar-authenticated.html:51
+msgid "Discover"
+msgstr ""
+
+#: lms/templates/courseware/courses.html
+msgid "Filters"
+msgstr ""
+
 #: lms/templates/header/navbar-logo-header.html:24
 msgid "{name} Dashboard"
 msgstr ""

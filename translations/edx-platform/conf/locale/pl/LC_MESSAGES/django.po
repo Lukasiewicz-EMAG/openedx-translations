@@ -2523,7 +2523,7 @@ msgstr "Przekaż darowiznę"
 #: themes/stanford-style/lms/templates/static_templates/about.html:41
 #: themes/stanford-style/lms/templates/static_templates/about.html:58
 msgid "About"
-msgstr "O"
+msgstr "O nas"
 
 #: lms/djangoapps/branding/api.py:289 lms/djangoapps/branding/api.py:365
 #, python-brace-format
@@ -17026,7 +17026,7 @@ msgstr "Zobacz wszystkie kursy"
 #: lms/templates/header/user_dropdown.html:44
 #: lms/templates/user_dropdown.html:30 lms/templates/user_dropdown.html:38
 msgid "Dashboard"
-msgstr "Panel sterowania"
+msgstr "Pulpit"
 
 #: lms/templates/dashboard.html:230
 msgid "results successfully populated,"
@@ -19293,7 +19293,7 @@ msgstr ""
 
 #: lms/templates/course_modes/fbe.html:35
 msgid "{link_start}Learn more{link_end} about course access"
-msgstr ""
+msgstr "{link_start}Dowedz się wiecej{link_end} o dostępie do kursu"
 
 #: lms/templates/course_modes/fbe.html:42
 #: lms/templates/course_modes/unfbe.html:23
@@ -19487,7 +19487,7 @@ msgstr ""
 #: lms/templates/courseware/courses.html:72
 #: lms/templates/courseware/courses.html:73
 msgid "Refine Your Search"
-msgstr ""
+msgstr "Doprecyzuj wyszukiwanie"
 
 #: lms/templates/courseware/courseware-chromeless.html:100
 #: lms/templates/courseware/courseware.html:308
@@ -20745,11 +20745,19 @@ msgstr ""
 
 #: lms/templates/header/navbar-authenticated.html:51
 msgid "Discover New"
-msgstr ""
+msgstr "Odkryj nowe"
+
+#: lms/templates/header/navbar-authenticated.html:51
+msgid "Discover"
+msgstr "Odkryj"
+
+#: lms/templates/courseware/courses.html
+msgid "Filters"
+msgstr "Filtry"
 
 #: lms/templates/header/navbar-logo-header.html:24
 msgid "{name} Dashboard"
-msgstr ""
+msgstr "Pulpit {name}"
 
 #: lms/templates/header/navbar-not-authenticated.html:24
 msgid "Supplemental Links"
@@ -20758,21 +20766,21 @@ msgstr ""
 #: lms/templates/header/navbar-not-authenticated.html:28
 #: lms/templates/navigation/navbar-not-authenticated.html:16
 msgid "How it Works"
-msgstr ""
+msgstr "Jak to działa"
 
 #: lms/templates/header/navbar-not-authenticated.html:36
 #: lms/templates/navigation/navbar-not-authenticated.html:24
 msgid "Schools"
-msgstr ""
+msgstr "Szkoły"
 
 #: lms/templates/header/navbar-not-authenticated.html:53
 #: lms/templates/header/navbar-not-authenticated.html:57
 msgid "Register for free"
-msgstr ""
+msgstr "Zarejestruj się"
 
 #: lms/templates/header/user_dropdown.html:47
 msgid "Profile"
-msgstr ""
+msgstr "Profil"
 
 #: lms/templates/header/user_dropdown.html:50
 msgid "Order History"
@@ -22151,7 +22159,7 @@ msgstr ""
 
 #: lms/templates/navigation/navbar-not-authenticated.html:33
 msgid "Explore Courses"
-msgstr ""
+msgstr "Przeglądaj kursy"
 
 #: lms/templates/navigation/navigation.html:44
 msgid "Global"
@@ -22611,7 +22619,7 @@ msgstr ""
 
 #: lms/templates/widgets/cookie-consent.html:22
 msgid "Learn more"
-msgstr ""
+msgstr "Dowiedz się więcej"
 
 #: lms/templates/wiki/includes/article_menu.html:14
 #: lms/templates/wiki/includes/article_menu.html:23
@@ -23425,4 +23433,4 @@ msgstr "O nas"
 
 #: themes/indigo/lms/templates/footer.html
 msgid "Terms of Sevice"
-msgstr "Warunki korzystania z Serwisu"
+msgstr "Warunki prawne"
