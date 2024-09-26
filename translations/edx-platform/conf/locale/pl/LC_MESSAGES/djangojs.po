@@ -3947,7 +3947,7 @@ msgstr "Zamknij kwestionariusz"
 msgid "Viewing %s course"
 msgid_plural "Viewing %s courses"
 msgstr[0] "Wyświetlanie %s kursu"
-msgstr[1] ""
+msgstr[1] "Wyświetlanie %s kursów"
 msgstr[2] ""
 
 #: lms/static/js/discovery/views/search_form.js:57
