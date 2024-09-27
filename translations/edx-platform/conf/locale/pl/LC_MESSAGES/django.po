@@ -20413,6 +20413,8 @@ msgstr[0] "Plik musi kończyć się rozszerzeniem {file_types}."
 msgstr[1] "Plik musi kończyć się rozszerzeniami {file_types}."
 msgstr[2] "Plik musi kończyć się rozszerzeniami {file_types}."
 
-
+#: themes/indigo/lms/courses
+msgid "Already Enrolled"
+msgstr "Już wybrany"
 
 
