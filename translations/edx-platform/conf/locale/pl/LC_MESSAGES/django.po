@@ -20386,31 +20386,6 @@ msgstr "O nas"
 msgid "Terms of Sevice"
 msgstr "Warunki świadczenia usług"
 
-#: cms/djangoapps/contentstore/git_export_utils.py:36
-#: cms/djangoapps/contentstore/git_export_utils.py:41
-#: cms/djangoapps/contentstore/management/commands/git_export.py:33
-#: cms/djangoapps/contentstore/video_utils.py:64
-#: cms/djangoapps/contentstore/views/course.py:927
-#: cms/djangoapps/contentstore/views/course.py:940
-#: cms/djangoapps/contentstore/views/course.py:969
-#: cms/djangoapps/contentstore/views/library.py:235
-#: cms/djangoapps/contentstore/views/library.py:241
-#: cms/djangoapps/maintenance/views.py:38
-#: cms/djangoapps/maintenance/views.py:48
-#: common/djangoapps/course_modes/admin.py:51
-#: common/djangoapps/course_modes/models.py:83
-#: common/djangoapps/course_modes/models.py:96
-#: common/djangoapps/course_modes/models.py:121
-#: common/djangoapps/course_modes/models.py:133
-#: common/djangoapps/course_modes/models.py:145
-#: common/djangoapps/student/admin.py:441
-#, python-format
-msgid "%(count)d student account was unlocked."
-msgid_plural "%(count)d student accounts were unlocked."
-msgstr[0] "%(count)d konto studenckie zostało odblokowane."
-msgstr[1] ""
-msgstr[2] ""
-
 #: common/djangoapps/student/models/course_enrollment.py:1666
 #: common/djangoapps/student/models/course_enrollment.py:1688
 #: common/djangoapps/student/models/course_enrollment.py:1700
