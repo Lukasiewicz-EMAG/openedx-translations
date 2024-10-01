@@ -1,6 +1,5 @@
 {
   "profile.page.title": "Profil | {siteName}",
-  "profile.age.headline": "Twój profil nie może być współdzielony."
   "profile.age.details": "Aby udostępnić swój profil innym uczącym się na {siteName}, musisz potwierdzić, że masz powyżej 13 lat.",
   "profile.age.set.date": "Ustaw datę urodzenia",
   "profile.datejoined.member.since": "Członek od {year}",
