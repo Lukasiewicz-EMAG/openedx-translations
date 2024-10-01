@@ -20417,4 +20417,8 @@ msgstr[2] "Plik musi kończyć się rozszerzeniami {file_types}."
 msgid "Already Enrolled"
 msgstr "Już wybrany"
 
+#: lms/static/js/discovery/views/search_form.js:57
+#, fuzzy, javascript-format
+msgid "We couldn't find any results for \"%s\"."
+msgstr "Nie znaleźliśmy żadnych wyników dla \"%s\"."
 
