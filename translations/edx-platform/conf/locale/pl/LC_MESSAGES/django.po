@@ -8821,7 +8821,7 @@ msgstr "Poprawna odpowiedź"
 
 #: xmodule/capa_block.py:1014
 msgid "Submitting"
-msgstr "Przesyłanie"
+msgstr "Sprawdzanie"
 
 #: xmodule/capa_block.py:1144
 msgid "Warning: The problem has been reset to its initial state!"
@@ -8864,17 +8864,17 @@ msgstr "Twoje odpowiedzi zostały wcześniej zapisane. Kliknij '{button_name}', 
 #, python-brace-format
 msgid "Incorrect ({progress} point)"
 msgid_plural "Incorrect ({progress} points)"
-msgstr[0] "Nieprawidłowy (punkt {progress})"
-msgstr[1] "Nieprawidłowy (punkty {progress})"
-msgstr[2] "Nieprawidłowy (punkty {progress})"
+msgstr[0] "Niepoprawnie (punkt {progress})"
+msgstr[1] "Niepoprawnie (punkty {progress})"
+msgstr[2] "Niepoprawnie (punkty {progress})"
 
 #: xmodule/capa_block.py:1379
 #, python-brace-format
 msgid "Correct ({progress} point)"
 msgid_plural "Correct ({progress} points)"
-msgstr[0] "Prawidłowo (punkt {progress})"
-msgstr[1] "Prawidłowo (punkty {progress})"
-msgstr[2] "Prawidłowo (punkty {progress})"
+msgstr[0] "Poprawnie (punkt {progress})"
+msgstr[1] "Poprawnie (punkty {progress})"
+msgstr[2] "Poprawnie (punkty {progress})"
 
 #: xmodule/capa_block.py:1388
 #, python-brace-format
