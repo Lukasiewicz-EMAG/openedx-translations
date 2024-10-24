@@ -20425,3 +20425,59 @@ msgstr "Nie znaleźliśmy żadnych wyników dla \"%s\"."
 #: themes/compass/lms/templates/course.html
 msgid "Go to course"
 msgstr "Rozpocznij kurs"
+
+#: themes/compass/lms/templates/course.html
+msgid "Leading text"
+msgstr "Zdobywaj wiedzę łatwiej i szybciej, bez wychodzenia z domu"
+
+#: themes/compass/lms/templates/course.html
+msgid "Leading button"
+msgstr "Rozpocznij teraz"
+
+#: themes/compass/lms/templates/course.html
+msgid "About Compass title"
+msgstr "Platforma edukacyjna Compass"
+
+#: themes/compass/lms/templates/course.html
+msgid "About Compass text"
+msgstr "Compass to innowacyjna platforma edukacyjna stworzona z myślą o uczniach, studentach i osobach, które pragną rozwijać swoje umiejętności matematyczne i informatyczne. Dzięki interaktywnym kursom, bogatym zasobom dydaktycznym oraz przyjaznemu interfejsowi, nauka staje się prostsza i bardziej dostępna niż kiedykolwiek."
+
+#: themes/compass/lms/templates/course.html
+msgid "About Compass image alt text"
+msgstr "Kobieta skupiona na swoim komputerze, wpisując kod wyświetlany na ekranie, prezentując swoje umiejętności programistyczne"
+
+#: themes/compass/lms/templates/course.html
+msgid "Home page section header 1"
+msgstr "Dlaczego warto wybrać Compass?"
+
+#: themes/compass/lms/templates/course.html
+msgid "Home page section header 2"
+msgstr "Przykładowe kursy Compass"
+
+#: themes/compass/lms/templates/course.html
+msgid "Why compass 1 title"
+msgstr "Indywidualne ścieżki nauki"
+
+#: themes/compass/lms/templates/course.html
+msgid "Why compass 1 text"
+msgstr "Każdy użytkownik może wybrać kursy dostosowane do jego potrzeb. Wybieraj spośród wielu przygotowanych szkoleń i ucz się kiedy chcesz."
+
+#: themes/compass/lms/templates/course.html
+msgid "Why compass 2 title"
+msgstr "Interaktywne zadania i testy"
+
+#: themes/compass/lms/templates/course.html
+msgid "Why compass 2 text"
+msgstr "Nasze kursy pomagać Ci w zrozumieniu trudnych tematów i utrwaleniu wiedzy. Wykonuj zadania i sprawdzaj swoją wiedzę."
+
+#: themes/compass/lms/templates/course.html
+msgid "Why compass 3 title"
+msgstr "Dostępność i elastyczność"
+
+#: themes/compass/lms/templates/course.html
+msgid "Why compass 3 text"
+msgstr "Nasza platforma jest dostępna 24/7 z dowolnego miejsca. Możesz uczyć się we własnym tempie. Korzystając z materiałów przygotowanych przez specjalistów i wykładowców."
+
+#: themes/compass/lms/templates/course.html
+msgid "Join Us button"
+msgstr "Dołącz do nas"
