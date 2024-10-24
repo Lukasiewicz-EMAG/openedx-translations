@@ -20423,15 +20423,11 @@ msgid "We couldn't find any results for \"%s\"."
 msgstr "Nie znaleźliśmy żadnych wyników dla \"%s\"."
 
 #: themes/compass/lms/templates/course.html
-msgid "Go to course button"
-msgstr "Rozpocznij kurs"
-
-#: themes/compass/lms/templates/course.html
-msgid "Leading text"
+msgid "Gain knowledge easier and faster, without leaving home"
 msgstr "Zdobywaj wiedzę łatwiej i szybciej, bez wychodzenia z domu"
 
 #: themes/compass/lms/templates/course.html
-msgid "Leading button"
+msgid "Start now"
 msgstr "Rozpocznij teraz"
 
 #: themes/compass/lms/templates/course.html
@@ -20439,45 +20435,45 @@ msgid "Compass Educational Platform"
 msgstr "Platforma edukacyjna Compass"
 
 #: themes/compass/lms/templates/course.html
-msgid "About Compass text"
+msgid "Compass is an innovative educational platform designed for students and people who want to develop their math and computer skills. With interactive courses, rich teaching resources and a user-friendly interface, learning becomes easier and more accessible than ever."
 msgstr "Compass to innowacyjna platforma edukacyjna stworzona z myślą o uczniach, studentach i osobach, które pragną rozwijać swoje umiejętności matematyczne i informatyczne. Dzięki interaktywnym kursom, bogatym zasobom dydaktycznym oraz przyjaznemu interfejsowi, nauka staje się prostsza i bardziej dostępna niż kiedykolwiek."
 
 #: themes/compass/lms/templates/course.html
-msgid "About Compass image alt text"
+msgid "Woman works at computer, screen shows program code"
 msgstr "Kobieta pracuje przy komputerze, na ekranie widoczny jest kod programu"
 
 #: themes/compass/lms/templates/course.html
-msgid "Home page section header 1"
+msgid "Why choose Compass?"
 msgstr "Dlaczego warto wybrać Compass?"
 
 #: themes/compass/lms/templates/course.html
-msgid "Home page section header 2"
+msgid "Compass Course Examples"
 msgstr "Przykładowe kursy Compass"
 
 #: themes/compass/lms/templates/course.html
-msgid "Why compass 1 title"
+msgid "Individual learning paths"
 msgstr "Indywidualne ścieżki nauki"
 
 #: themes/compass/lms/templates/course.html
-msgid "Why compass 1 text"
+msgid "Each user can choose courses tailored to their needs. Choose from many prepared trainings and learn whenever you want."
 msgstr "Każdy użytkownik może wybrać kursy dostosowane do jego potrzeb. Wybieraj spośród wielu przygotowanych szkoleń i ucz się kiedy chcesz."
 
 #: themes/compass/lms/templates/course.html
-msgid "Why compass 2 title"
+msgid "Interactive exercises and tests"
 msgstr "Interaktywne zadania i testy"
 
 #: themes/compass/lms/templates/course.html
-msgid "Why compass 2 text"
+msgid "Our courses help you understand difficult topics and consolidate your knowledge. Complete exercises and test your knowledge."
 msgstr "Nasze kursy pomagać Ci w zrozumieniu trudnych tematów i utrwaleniu wiedzy. Wykonuj zadania i sprawdzaj swoją wiedzę."
 
 #: themes/compass/lms/templates/course.html
-msgid "Why compass 3 title"
+msgid "Availability and flexibility"
 msgstr "Dostępność i elastyczność"
 
 #: themes/compass/lms/templates/course.html
-msgid "Why compass 3 text"
+msgid "Our platform is available 24/7 from anywhere. You can learn at your own pace. Using materials prepared by specialists and lecturers."
 msgstr "Nasza platforma jest dostępna 24/7 z dowolnego miejsca. Możesz uczyć się we własnym tempie. Korzystając z materiałów przygotowanych przez specjalistów i wykładowców."
 
 #: themes/compass/lms/templates/course.html
-msgid "Join Us button"
+msgid "Join us"
 msgstr "Dołącz do nas"
