@@ -20435,7 +20435,7 @@ msgid "Leading button"
 msgstr "Rozpocznij teraz"
 
 #: themes/compass/lms/templates/course.html
-msgid "About Compass title"
+msgid "Compass Educational Platform"
 msgstr "Platforma edukacyjna Compass"
 
 #: themes/compass/lms/templates/course.html
