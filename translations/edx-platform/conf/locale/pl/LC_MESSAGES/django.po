@@ -20423,7 +20423,7 @@ msgid "We couldn't find any results for \"%s\"."
 msgstr "Nie znaleźliśmy żadnych wyników dla \"%s\"."
 
 #: themes/compass/lms/templates/course.html
-msgid "Go to course"
+msgid "Go to course button"
 msgstr "Rozpocznij kurs"
 
 #: themes/compass/lms/templates/course.html
@@ -20444,7 +20444,7 @@ msgstr "Compass to innowacyjna platforma edukacyjna stworzona z myślą o ucznia
 
 #: themes/compass/lms/templates/course.html
 msgid "About Compass image alt text"
-msgstr "Kobieta skupiona na swoim komputerze, wpisując kod wyświetlany na ekranie, prezentując swoje umiejętności programistyczne"
+msgstr "Kobieta pracuje przy komputerze, na ekranie widoczny jest kod programu"
 
 #: themes/compass/lms/templates/course.html
 msgid "Home page section header 1"

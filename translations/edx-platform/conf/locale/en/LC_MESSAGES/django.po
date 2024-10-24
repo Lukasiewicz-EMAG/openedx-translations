@@ -23636,7 +23636,7 @@ msgid "Terms of Sevice"
 msgstr ""
 
 #: themes/compass/lms/templates/course.html
-msgid "Go to course"
+msgid "Go to course button"
 msgstr "Start the course"
 
 #: themes/compass/lms/templates/course.html
@@ -23657,7 +23657,7 @@ msgstr "Compass is an innovative educational platform designed for students and 
 
 #: themes/compass/lms/templates/course.html
 msgid "About Compass image alt text"
-msgstr "A woman focused on her computer, typing code displayed on the screen, showcasing her programming skills"
+msgstr "Woman works at computer, screen shows program code"
 
 #: themes/compass/lms/templates/course.html
 msgid "Home page section header 1"
