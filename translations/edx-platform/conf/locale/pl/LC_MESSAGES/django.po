@@ -20422,3 +20422,6 @@ msgstr "Już wybrany"
 msgid "We couldn't find any results for \"%s\"."
 msgstr "Nie znaleźliśmy żadnych wyników dla \"%s\"."
 
+#: themes/compass/lms/templates/course.html
+msgid "Go to course"
+msgstr "Rozpocznij kurs"

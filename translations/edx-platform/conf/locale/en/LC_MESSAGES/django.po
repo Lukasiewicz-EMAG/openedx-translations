@@ -23611,19 +23611,19 @@ msgstr ""
 msgid "Code Editor"
 msgstr ""
 
-#: themes/indigo/lms/templates/registration/account_activation_sidebar_notice.html  
+#: themes/indigo/lms/templates/registration/account_activation_sidebar_notice.html
 msgid "Notice"
 msgstr ""
 
-#: themes/indigo/lms/templates/registration/account_activation_sidebar_notice.html  
+#: themes/indigo/lms/templates/registration/account_activation_sidebar_notice.html
 msgid "Resend Activation Email"
 msgstr ""
 
-#: themes/indigo/lms/templates/courseware/courses.html  
+#: themes/indigo/lms/templates/courseware/courses.html
 msgid "Unlock Your Potential: Discover New Courses Today!"
 msgstr ""
 
-#: themes/indigo/lms/templates/courseware/courses.html  
+#: themes/indigo/lms/templates/courseware/courses.html
 msgid "Explore a world of knowledge and enhance your skills with our diverse range of courses"
 msgstr ""
 
@@ -23635,3 +23635,6 @@ msgstr ""
 msgid "Terms of Sevice"
 msgstr ""
 
+#: themes/compass/lms/templates/course.html
+msgid "Go to course"
+msgstr "Start the course"
