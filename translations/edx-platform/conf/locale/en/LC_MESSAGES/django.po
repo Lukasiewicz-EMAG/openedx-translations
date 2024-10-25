@@ -23636,8 +23636,8 @@ msgid "Terms of Sevice"
 msgstr ""
 
 #: themes/compass/lms/templates/course.html
-msgid "Gain knowledge easier and faster, without leaving home"
-msgstr ""
+msgid "Leading text"
+msgstr "Gain knowledge easier and faster, without leaving home"
 
 #: themes/compass/lms/templates/course.html
 msgid "Start now"
