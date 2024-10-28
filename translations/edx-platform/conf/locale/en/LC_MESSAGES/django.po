@@ -23677,7 +23677,7 @@ msgstr "Interactive exercises and tests"
 
 #: themes/compass/lms/templates/course.html
 msgid "Why compass 2 text"
-msgstr "Our courses help you understand difficult topics and consolidate your knowledge. Complete exercises and test your knowledge."
+msgstr "Our courses will help you understand difficult topics and consolidate your knowledge. We focus on user-friendly materials and numerous tips that will make learning easier."
 
 #: themes/compass/lms/templates/course.html
 msgid "Why compass 3 title"
@@ -23685,7 +23685,7 @@ msgstr "Availability and flexibility"
 
 #: themes/compass/lms/templates/course.html
 msgid "Why compass 3 text"
-msgstr "Our platform is available 24/7 from anywhere. You can learn at your own pace. Using materials prepared by specialists and lecturers."
+msgstr "Our platform is available 24/7 from anywhere. You can learn at your own pace, using materials prepared by specialists and lecturers."
 
 #: themes/compass/lms/templates/course.html
 msgid "Join Us button"

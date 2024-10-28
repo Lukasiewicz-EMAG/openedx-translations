@@ -20436,7 +20436,7 @@ msgstr "Platforma edukacyjna Compass"
 
 #: themes/compass/lms/templates/course.html
 msgid "About Compass text"
-msgstr "Compass to innowacyjna platforma edukacyjna stworzona z myślą o uczniach, studentach i osobach, które pragną rozwijać swoje umiejętności matematyczne i informatyczne. Dzięki interaktywnym kursom, bogatym zasobom dydaktycznym oraz przyjaznemu interfejsowi, nauka staje się prostsza i bardziej dostępna niż kiedykolwiek."
+msgstr "Compass to innowacyjna platforma edukacyjna stworzona z myślą o&nbsp;uczniach, studentach i osobach, które pragną rozwijać swoje umiejętności matematyczne i informatyczne. Dzięki interaktywnym kursom, bogatym zasobom dydaktycznym oraz przyjaznemu interfejsowi, nauka staje się prostsza i bardziej dostępna niż kiedykolwiek."
 
 #: themes/compass/lms/templates/course.html
 msgid "About Compass image alt text"
@@ -20456,7 +20456,7 @@ msgstr "Indywidualne ścieżki nauki"
 
 #: themes/compass/lms/templates/course.html
 msgid "Why compass 1 text"
-msgstr "Każdy użytkownik może wybrać kursy dostosowane do jego potrzeb. Wybieraj spośród wielu przygotowanych szkoleń i ucz się kiedy chcesz."
+msgstr "Każdy użytkownik może wybrać kursy dostosowane do swoich potrzeb. Wybieraj spośród wielu przygotowanych szkoleń i ucz się kiedy chcesz."
 
 #: themes/compass/lms/templates/course.html
 msgid "Why compass 2 title"
@@ -20464,7 +20464,7 @@ msgstr "Interaktywne zadania i testy"
 
 #: themes/compass/lms/templates/course.html
 msgid "Why compass 2 text"
-msgstr "Nasze kursy pomagać Ci w zrozumieniu trudnych tematów i utrwaleniu wiedzy. Wykonuj zadania i sprawdzaj swoją wiedzę."
+msgstr "Nasze kursy pomogą Ci w zrozumieniu trudnych tematów i utrwalaniu wiedzy. Stawiamy na przyjazne materiały i liczne wskazówki, które ułatwią naukę."
 
 #: themes/compass/lms/templates/course.html
 msgid "Why compass 3 title"
@@ -20472,7 +20472,7 @@ msgstr "Dostępność i elastyczność"
 
 #: themes/compass/lms/templates/course.html
 msgid "Why compass 3 text"
-msgstr "Nasza platforma jest dostępna 24/7 z dowolnego miejsca. Możesz uczyć się we własnym tempie. Korzystając z materiałów przygotowanych przez specjalistów i wykładowców."
+msgstr "Nasza platforma jest dostępna 24/7 z dowolnego miejsca. Możesz uczyć się we własnym tempie, korzystając z materiałów przygotowanych przez specjalistów i wykładowców."
 
 #: themes/compass/lms/templates/course.html
 msgid "Join Us button"
