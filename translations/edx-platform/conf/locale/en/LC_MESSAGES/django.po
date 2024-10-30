@@ -23692,11 +23692,13 @@ msgid "Join Us button"
 msgstr "Join us"
 
 #: test string
-#, python-format
 msgid "Lorem ipsum dolor sit amet, consectetur adipiscing&nbsp;elit. Fusce <strong>magna urna</strong>, ultricies pharetra elementum non, laoreet sit amet urna. Duis et luctus est, ac condimentum lacus. Morbi neque libero, elementum sed magna eu, feugiat hendrerit ligula. Sed eu finibus lectus, at luctus libero. Fusce consequat vitae turpis quis venenatis."
 msgstr ""
 
 #: test string 2
-#, python-format
 msgid "test string 2"
 msgstr "Lorem ipsum dolor sit amet, consectetur adipiscing&nbsp;elit. Fusce <strong>magna urna</strong>, ultricies pharetra elementum non, laoreet sit amet urna. Duis et luctus est, ac condimentum lacus. Morbi neque libero, elementum sed magna eu, feugiat hendrerit ligula. Sed eu finibus lectus, at luctus libero. Fusce consequat vitae turpis quis venenatis."
+
+#: test string 3
+msgid "test string 3"
+msgstr "Lorem ipsum dolor sit amet, consectetur adipiscing{nbsp}elit. Fusce {strong_start}magna urna{strong_end}, ultricies pharetra elementum non, laoreet sit amet urna. Duis et luctus est, ac condimentum lacus. Morbi neque libero, elementum sed magna eu, feugiat hendrerit ligula. Sed eu finibus lectus, at luctus libero. Fusce consequat vitae turpis quis venenatis."
