@@ -23649,7 +23649,7 @@ msgstr "Compass Educational Platform"
 
 #: themes/compass/lms/templates/course.html
 msgid "About Compass text"
-msgstr "Compass is an innovative educational platform designed for students and people who want to develop their math and computer skills. With interactive courses, rich teaching resources and a user-friendly interface, learning becomes easier and more accessible than ever."
+msgstr "Compass is an innovative educational platform designed for students,{nbsp}learners, and anyone who wants to improve their math and{nbsp}programming skills. With interactive courses, rich educational resources, and a user-friendly interface, learning becomes easier and{nbsp}more accessible than ever before."
 
 #: themes/compass/lms/templates/course.html
 msgid "About Compass image alt text"
@@ -23669,7 +23669,7 @@ msgstr "Individual learning paths"
 
 #: themes/compass/lms/templates/course.html
 msgid "Why compass 1 text"
-msgstr "Each user can choose courses tailored to their needs. Choose from many prepared trainings and learn whenever you want."
+msgstr "Each user can select courses tailored to their{nbsp}needs. Choose from a wide range of{nbsp}pre-built training courses and learn whenever you want."
 
 #: themes/compass/lms/templates/course.html
 msgid "Why compass 2 title"
@@ -23677,7 +23677,7 @@ msgstr "Interactive exercises and tests"
 
 #: themes/compass/lms/templates/course.html
 msgid "Why compass 2 text"
-msgstr "Our courses will help you understand difficult topics and consolidate your knowledge. We focus on user-friendly materials and numerous tips that will make learning easier."
+msgstr "Our courses will help you understand difficult{nbsp}topics and deepen your knowledge. We offer friendly materials and lots of tips and{nbsp}hints to make learning easier."
 
 #: themes/compass/lms/templates/course.html
 msgid "Why compass 3 title"
@@ -23685,7 +23685,7 @@ msgstr "Availability and flexibility"
 
 #: themes/compass/lms/templates/course.html
 msgid "Why compass 3 text"
-msgstr "Our platform is available 24/7 from anywhere. You can learn at your own pace, using materials prepared by specialists and lecturers."
+msgstr "Our platform is available 24/7 from anywhere.{nbsp}You can learn at your own pace, using materials created by experts."
 
 #: themes/compass/lms/templates/course.html
 msgid "Join Us button"

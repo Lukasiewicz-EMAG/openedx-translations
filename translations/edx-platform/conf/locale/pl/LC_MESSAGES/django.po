@@ -20436,7 +20436,7 @@ msgstr "Platforma edukacyjna Compass"
 
 #: themes/compass/lms/templates/course.html
 msgid "About Compass text"
-msgstr "Compass to innowacyjna platforma edukacyjna stworzona z myślą o&nbsp;uczniach, studentach i osobach, które pragną rozwijać swoje umiejętności matematyczne i informatyczne. Dzięki interaktywnym kursom, bogatym zasobom dydaktycznym oraz przyjaznemu interfejsowi, nauka staje się prostsza i bardziej dostępna niż kiedykolwiek."
+msgstr "Compass to innowacyjna platforma edukacyjna stworzona z myślą o{nbsp}uczniach, studentach i osobach, które pragną rozwijać swoje umiejętności matematyczne i informatyczne. Dzięki interaktywnym kursom, bogatym zasobom dydaktycznym oraz przyjaznemu interfejsowi, nauka staje się prostsza i bardziej dostępna niż kiedykolwiek."
 
 #: themes/compass/lms/templates/course.html
 msgid "About Compass image alt text"
@@ -20456,7 +20456,7 @@ msgstr "Indywidualne ścieżki nauki"
 
 #: themes/compass/lms/templates/course.html
 msgid "Why compass 1 text"
-msgstr "Każdy użytkownik może wybrać kursy dostosowane do swoich potrzeb. Wybieraj spośród wielu przygotowanych szkoleń i ucz się kiedy chcesz."
+msgstr "Każdy użytkownik może wybrać kursy dostosowane do swoich potrzeb. Wybieraj{nbsp}spośród wielu przygotowanych szkoleń i ucz się kiedy chcesz."
 
 #: themes/compass/lms/templates/course.html
 msgid "Why compass 2 title"
@@ -20464,7 +20464,7 @@ msgstr "Interaktywne zadania i testy"
 
 #: themes/compass/lms/templates/course.html
 msgid "Why compass 2 text"
-msgstr "Nasze kursy pomogą Ci w zrozumieniu trudnych tematów i utrwalaniu wiedzy. Stawiamy na przyjazne materiały i liczne wskazówki, które ułatwią naukę."
+msgstr "Nasze kursy pomogą Ci zrozumieć trudne{nbsp}tematy i utrwalić wiedzy. Proponujemy{nbsp}przyjazne materiały i liczne wskazówki, które ułatwią naukę."
 
 #: themes/compass/lms/templates/course.html
 msgid "Why compass 3 title"
@@ -20472,19 +20472,17 @@ msgstr "Dostępność i elastyczność"
 
 #: themes/compass/lms/templates/course.html
 msgid "Why compass 3 text"
-msgstr "Nasza platforma jest dostępna 24/7 z dowolnego miejsca. Możesz uczyć się we własnym tempie, korzystając z materiałów przygotowanych przez specjalistów i wykładowców."
+msgstr "Nasza platforma jest dostępna 24/7 z{nbsp}dowolnego miejsca. Możesz uczyć się we własnym tempie, korzystając z materiałów przygotowanych przez specjalistów."
 
 #: themes/compass/lms/templates/course.html
 msgid "Join Us button"
 msgstr "Dołącz do nas"
 
 #: test string
-#, python-format
 msgid "Lorem ipsum dolor sit amet, consectetur adipiscing&nbsp;elit. Fusce <strong>magna urna</strong>, ultricies pharetra elementum non, laoreet sit amet urna. Duis et luctus est, ac condimentum lacus. Morbi neque libero, elementum sed magna eu, feugiat hendrerit ligula. Sed eu finibus lectus, at luctus libero. Fusce consequat vitae turpis quis venenatis."
 msgstr "[PL] Lorem ipsum dolor sit amet, consectetur adipiscing&nbsp;elit. Fusce <strong>magna urna</strong>, ultricies pharetra elementum non, laoreet sit amet urna. Duis et luctus est, ac condimentum lacus. Morbi neque libero, elementum sed magna eu, feugiat hendrerit ligula. Sed eu finibus lectus, at luctus libero. Fusce consequat vitae turpis quis venenatis."
 
 #: test string 2
-#, python-format
 msgid "test string 2"
 msgstr "[PL] Lorem ipsum dolor sit amet, consectetur adipiscing&nbsp;elit. Fusce <strong>magna urna</strong>, ultricies pharetra elementum non, laoreet sit amet urna. Duis et luctus est, ac condimentum lacus. Morbi neque libero, elementum sed magna eu, feugiat hendrerit ligula. Sed eu finibus lectus, at luctus libero. Fusce consequat vitae turpis quis venenatis."
 
