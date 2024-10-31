@@ -20388,6 +20388,10 @@ msgstr "O nas"
 msgid "Terms of Sevice"
 msgstr "Warunki świadczenia usług"
 
+#: themes/indigo/lms/templates/footer.html
+msgid "Accessibility declaration"
+msgstr "Deklaracja dostępności"
+
 #: common/djangoapps/student/models/course_enrollment.py:1666
 #: common/djangoapps/student/models/course_enrollment.py:1688
 #: common/djangoapps/student/models/course_enrollment.py:1700

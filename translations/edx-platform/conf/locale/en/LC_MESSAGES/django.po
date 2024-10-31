@@ -23635,6 +23635,10 @@ msgstr ""
 msgid "Terms of Sevice"
 msgstr ""
 
+#: themes/indigo/lms/templates/footer.html
+msgid "Accessibility declaration"
+msgstr ""
+
 #: themes/compass/lms/templates/course.html
 msgid "Leading text"
 msgstr "Gain knowledge easier and faster, without leaving home"
