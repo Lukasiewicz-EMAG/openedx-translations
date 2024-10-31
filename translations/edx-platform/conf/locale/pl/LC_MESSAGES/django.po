@@ -20481,15 +20481,3 @@ msgstr "Nasza platforma jest dostępna 24/7 z{nbsp}dowolnego miejsca. Możesz uc
 #: themes/compass/lms/templates/course.html
 msgid "Join Us button"
 msgstr "Dołącz do nas"
-
-#: test string
-msgid "Lorem ipsum dolor sit amet, consectetur adipiscing&nbsp;elit. Fusce <strong>magna urna</strong>, ultricies pharetra elementum non, laoreet sit amet urna. Duis et luctus est, ac condimentum lacus. Morbi neque libero, elementum sed magna eu, feugiat hendrerit ligula. Sed eu finibus lectus, at luctus libero. Fusce consequat vitae turpis quis venenatis."
-msgstr "[PL] Lorem ipsum dolor sit amet, consectetur adipiscing&nbsp;elit. Fusce <strong>magna urna</strong>, ultricies pharetra elementum non, laoreet sit amet urna. Duis et luctus est, ac condimentum lacus. Morbi neque libero, elementum sed magna eu, feugiat hendrerit ligula. Sed eu finibus lectus, at luctus libero. Fusce consequat vitae turpis quis venenatis."
-
-#: test string 2
-msgid "test string 2"
-msgstr "[PL] Lorem ipsum dolor sit amet, consectetur adipiscing&nbsp;elit. Fusce <strong>magna urna</strong>, ultricies pharetra elementum non, laoreet sit amet urna. Duis et luctus est, ac condimentum lacus. Morbi neque libero, elementum sed magna eu, feugiat hendrerit ligula. Sed eu finibus lectus, at luctus libero. Fusce consequat vitae turpis quis venenatis."
-
-#: test string 3
-msgid "test string 3"
-msgstr "[PL] Lorem ipsum dolor sit amet, consectetur adipiscing{nbsp}elit. Fusce {strong_start}magna urna{strong_end}, ultricies pharetra elementum non, laoreet sit amet urna. Duis et luctus est, ac condimentum lacus. Morbi neque libero, elementum sed magna eu, feugiat hendrerit ligula. Sed eu finibus lectus, at luctus libero. Fusce consequat vitae turpis quis venenatis."
