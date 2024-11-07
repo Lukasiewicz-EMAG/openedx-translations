@@ -17876,7 +17876,7 @@ msgstr "Odkryj"
 
 #: lms/templates/courseware/courses.html
 msgid "Filters"
-msgstr "Filtry"
+msgstr "Filtruj"
 
 #: lms/templates/header/navbar-logo-header.html:24
 msgid "{name} Dashboard"
@@ -19175,7 +19175,7 @@ msgstr "Nie widzisz preferowanego języka? {link_start} Zgłoś się na ochotnik
 
 #: lms/templates/navigation/navbar-not-authenticated.html:33
 msgid "Explore Courses"
-msgstr "Przeglądaj kursy"
+msgstr "Wyszukaj kurs"
 
 #: lms/templates/navigation/navigation.html:44
 msgid "Global"
@@ -20373,8 +20373,8 @@ msgid "Resend Activation Email"
 msgstr "Wyślij ponownie maila z aktywacją"
 
 #: themes/indigo/lms/templates/courseware/courses.html
-msgid "Unlock Your Potential: Discover New Courses Today!"
-msgstr "Odblokuj swój potencjał: Odkryj nowe kursy!"
+msgid "Courses list header"
+msgstr "Odkryj nowe kursy przygotowane dla Ciebie"
 
 #: themes/indigo/lms/templates/courseware/courses.html
 msgid "Explore a world of knowledge and enhance your skills with our diverse range of courses"

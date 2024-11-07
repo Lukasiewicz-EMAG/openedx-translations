@@ -21137,7 +21137,7 @@ msgstr ""
 
 #: lms/templates/courseware/courses.html
 msgid "Filters"
-msgstr ""
+msgstr "Filter"
 
 #: lms/templates/header/navbar-logo-header.html:24
 msgid "{name} Dashboard"
@@ -22655,7 +22655,7 @@ msgstr ""
 
 #: lms/templates/navigation/navbar-not-authenticated.html:33
 msgid "Explore Courses"
-msgstr ""
+msgstr "Search for a course"
 
 #: lms/templates/navigation/navigation.html:44
 msgid "Global"
@@ -23620,8 +23620,8 @@ msgid "Resend Activation Email"
 msgstr ""
 
 #: themes/indigo/lms/templates/courseware/courses.html
-msgid "Unlock Your Potential: Discover New Courses Today!"
-msgstr ""
+msgid "Courses list header"
+msgstr "Discover new courses prepared for you"
 
 #: themes/indigo/lms/templates/courseware/courses.html
 msgid "Explore a world of knowledge and enhance your skills with our diverse range of courses"
