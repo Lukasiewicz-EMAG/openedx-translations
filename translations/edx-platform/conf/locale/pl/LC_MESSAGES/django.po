@@ -20468,7 +20468,7 @@ msgstr "Interaktywne zadania i testy"
 
 #: themes/compass/lms/templates/course.html
 msgid "Why compass 2 text"
-msgstr "Nasze kursy pomogą Ci zrozumieć trudne{nbsp}tematy i utrwalić wiedzy. Proponujemy{nbsp}przyjazne materiały i liczne wskazówki, które ułatwią naukę."
+msgstr "Nasze kursy pomogą Ci zrozumieć trudne{nbsp}tematy i utrwalić wiedzę. Proponujemy{nbsp}przyjazne materiały i liczne wskazówki, które ułatwią naukę."
 
 #: themes/compass/lms/templates/course.html
 msgid "Why compass 3 title"
