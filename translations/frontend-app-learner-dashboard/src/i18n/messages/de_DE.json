@@ -4,7 +4,7 @@
   "learner-dash.title": "Zuhause für Lernende",
   "zendesk.supportTitle": "edX-Unterstützung",
   "zendesk.selectTicketForm": "Bitte wählen Sie Ihren Anfragetyp:",
-  "learner-dash.courseCard.bannerAlt": "Miniaturansicht des Kurses",
+  "learner-dash.courseCard.bannerAlt": "Miniaturansicht des Kurses {courseName}",
   "learner-dash.courseCard.verifiedBanner": "Geprüft",
   "learner-dash.courseCard.verifiedHoverDescription": "Du wurdest als verifizierter Teilnehmer eingeschrieben",
   "learner-dash.courseCard.verifiedBannerRibbonAlt": "ID Verified Ribbon/Badge",

@@ -4,7 +4,7 @@
   "learner-dash.title": "Casa dello studente",
   "zendesk.supportTitle": "Supporto edX",
   "zendesk.selectTicketForm": "Scegli il tipo di richiesta:",
-  "learner-dash.courseCard.bannerAlt": "Miniatura del corso",
+  "learner-dash.courseCard.bannerAlt": "Miniatura del corso {courseName}",
   "learner-dash.courseCard.verifiedBanner": "Verificato",
   "learner-dash.courseCard.verifiedHoverDescription": "Sei iscritto/a come studente verificato",
   "learner-dash.courseCard.verifiedBannerRibbonAlt": "Ribbon/Badge con ID verificato",

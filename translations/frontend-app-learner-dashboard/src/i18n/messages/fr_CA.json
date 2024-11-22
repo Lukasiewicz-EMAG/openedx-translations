@@ -4,7 +4,7 @@
   "learner-dash.title": "Accueil de l'apprenant",
   "zendesk.supportTitle": "Prise en charge d'edX",
   "zendesk.selectTicketForm": "Veuillez choisir votre type de demande :",
-  "learner-dash.courseCard.bannerAlt": "Miniature du cours",
+  "learner-dash.courseCard.bannerAlt": "Miniature du cours {courseName}",
   "learner-dash.courseCard.verifiedBanner": "Vérifié",
   "learner-dash.courseCard.verifiedHoverDescription": "Vous êtes inscrit comme un étudiant vérifié",
   "learner-dash.courseCard.verifiedBannerRibbonAlt": "Ruban/badge avec identité vérifiée",

@@ -4,7 +4,7 @@
   "learner-dash.title": "Trang chủ người học",
   "zendesk.supportTitle": "Hỗ trợ edX",
   "zendesk.selectTicketForm": "Vui lòng chọn loại yêu cầu của bạn:",
-  "learner-dash.courseCard.bannerAlt": "Hình thu nhỏ khóa học",
+  "learner-dash.courseCard.bannerAlt": "Hình thu nhỏ khóa học {courseName}",
   "learner-dash.courseCard.verifiedBanner": "Đã xác minh",
   "learner-dash.courseCard.verifiedHoverDescription": "Bạn đã được ghi danh là sinh viên đã được xác minh",
   "learner-dash.courseCard.verifiedBannerRibbonAlt": "Dải băng/Huy hiệu đã được xác minh ID",

@@ -4,7 +4,7 @@
   "learner-dash.title": "Dalībnieku mājas lapa",
   "zendesk.supportTitle": "edX atbalsts",
   "zendesk.selectTicketForm": "Lūdzu, izvēlieties pieprasījuma veidu:",
-  "learner-dash.courseCard.bannerAlt": "Kursa sīktēls",
+  "learner-dash.courseCard.bannerAlt": "Kursa sīktēls {courseName}",
   "learner-dash.courseCard.verifiedBanner": "Verificēts",
   "learner-dash.courseCard.verifiedHoverDescription": "Jūs reģistrējāties kā verificēts dalībnieks/ce",
   "learner-dash.courseCard.verifiedBannerRibbonAlt": "ID verificēta lente/žetons",

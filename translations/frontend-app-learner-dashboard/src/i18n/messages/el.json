@@ -4,7 +4,7 @@
   "learner-dash.title": "Σπίτι Μαθητών",
   "zendesk.supportTitle": "Υποστήριξη edX",
   "zendesk.selectTicketForm": "Επιλέξτε τον τύπο του αιτήματός σας:",
-  "learner-dash.courseCard.bannerAlt": "Μικρογραφία μαθήματος",
+  "learner-dash.courseCard.bannerAlt": "Μικρογραφία μαθήματος {courseName}",
   "learner-dash.courseCard.verifiedBanner": "Επαληθευμένοι",
   "learner-dash.courseCard.verifiedHoverDescription": "Έχετε εγγραφεί ως πιστοποιημένος φοιτητής",
   "learner-dash.courseCard.verifiedBannerRibbonAlt": "Κορδέλα/Σήμα επαληθευμένης ταυτότητας",

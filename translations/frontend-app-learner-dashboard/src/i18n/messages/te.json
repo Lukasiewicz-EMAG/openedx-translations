@@ -4,7 +4,7 @@
   "learner-dash.title": "లెర్నర్ హోమ్",
   "zendesk.supportTitle": "edX మద్దతు",
   "zendesk.selectTicketForm": "దయచేసి మీ అభ్యర్థన రకాన్ని ఎంచుకోండి:",
-  "learner-dash.courseCard.bannerAlt": "కోర్సు సూక్ష్మచిత్రం",
+  "learner-dash.courseCard.bannerAlt": "కోర్సు సూక్ష్మచిత్రం {courseName}",
   "learner-dash.courseCard.verifiedBanner": "ధృవీకరించబడింది",
   "learner-dash.courseCard.verifiedHoverDescription": "మీరు ధృవీకరించబడిన విద్యార్థిగా నమోదు చేయబడ్డారు",
   "learner-dash.courseCard.verifiedBannerRibbonAlt": "ID ధృవీకరించబడిన రిబ్బన్/బ్యాడ్జ్",

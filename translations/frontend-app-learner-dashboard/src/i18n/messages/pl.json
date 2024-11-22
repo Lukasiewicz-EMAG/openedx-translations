@@ -62,6 +62,8 @@
   "learner-dash.courseCard.actions.resume": "Wznów",
   "learner-dash.courseCard.actions.viewCourse": "Zobacz kurs",
   "learner-dash.courseCard.actions.selectSession": "Wybierz sesję",
+  "learner-dash.courseCard.bannerAlt": "Grafika kursu {courseName}",
+  "learner-dash.courseCard.verifiedBanner": "Zweryfikowanny",
   "learner-dash.selectSession.changeOrLeaveHeader": "Zmień lub opuść sesję?",
   "learner-dash.selectSession.selectSessionHeader": "Wybierz sesję",
   "learner-dash.selectSession.changeOrLeaveHint": "Jeśli zmienisz sesję, utracisz postęp kursu lub oceny z bieżącej sesji.",

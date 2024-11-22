@@ -4,7 +4,7 @@
   "learner-dash.title": "בית הלומד",
   "zendesk.supportTitle": "תמיכה ב-edX",
   "zendesk.selectTicketForm": "אנא בחר את סוג הבקשה שלך:",
-  "learner-dash.courseCard.bannerAlt": "תמונה ממוזערת של הקורס",
+  "learner-dash.courseCard.bannerAlt": "תמונה ממוזערת של הקורס {courseName}",
   "learner-dash.courseCard.verifiedBanner": "מאומת",
   "learner-dash.courseCard.verifiedHoverDescription": "הינך רשום כסטודנט מאומת",
   "learner-dash.courseCard.verifiedBannerRibbonAlt": "תג או סרט למזהה מאומת",

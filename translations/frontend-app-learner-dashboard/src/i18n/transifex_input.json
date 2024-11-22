@@ -4,7 +4,7 @@
   "learner-dash.title": "Learner Home",
   "zendesk.supportTitle": "edX Support",
   "zendesk.selectTicketForm": "Please choose your request type:",
-  "learner-dash.courseCard.bannerAlt": "Course thumbnail",
+  "learner-dash.courseCard.bannerAlt": "Image of the course {courseName}",
   "learner-dash.courseCard.verifiedBanner": "Verified",
   "learner-dash.courseCard.verifiedHoverDescription": "You're enrolled as a verified student",
   "learner-dash.courseCard.verifiedBannerRibbonAlt": "ID Verified Ribbon/Badge",

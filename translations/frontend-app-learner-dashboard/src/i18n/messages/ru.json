@@ -4,7 +4,7 @@
   "learner-dash.title": "Домашняя страница учащегося",
   "zendesk.supportTitle": "Поддержка edX",
   "zendesk.selectTicketForm": "Пожалуйста, выберите тип запроса:",
-  "learner-dash.courseCard.bannerAlt": "Миниатюра курса",
+  "learner-dash.courseCard.bannerAlt": "Миниатюра курса {courseName}",
   "learner-dash.courseCard.verifiedBanner": "Подтверждено",
   "learner-dash.courseCard.verifiedHoverDescription": "Вы зачислены на курс, ваша личность подтверждена",
   "learner-dash.courseCard.verifiedBannerRibbonAlt": "Ленточка/значок подтверждённого статуса",

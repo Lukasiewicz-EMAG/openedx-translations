@@ -4,7 +4,7 @@
   "learner-dash.title": "خانه زبان آموز",
   "zendesk.supportTitle": "پشتیبانی edX",
   "zendesk.selectTicketForm": "لطفا نوع درخواست خود را انتخاب کنید:",
-  "learner-dash.courseCard.bannerAlt": "تصویر کوچک دوره",
+  "learner-dash.courseCard.bannerAlt": "تصویر کوچک دوره {courseName}",
   "learner-dash.courseCard.verifiedBanner": "تایید شده است",
   "learner-dash.courseCard.verifiedHoverDescription": "شما به عنوان یک دانش آموز تأیید شده ثبت نام کرده اید",
   "learner-dash.courseCard.verifiedBannerRibbonAlt": "روبان/نشان تایید شده شناسه",

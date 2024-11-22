@@ -4,7 +4,7 @@
   "learner-dash.title": "منزل المتعلم",
   "zendesk.supportTitle": "دعم edX",
   "zendesk.selectTicketForm": "الرجاء اختيار نوع الطلب الخاص بك:",
-  "learner-dash.courseCard.bannerAlt": "الصورة المصغرة للدورة",
+  "learner-dash.courseCard.bannerAlt": "الصورة المصغرة للدورة {courseName}",
   "learner-dash.courseCard.verifiedBanner": "موثَّقة",
   "learner-dash.courseCard.verifiedHoverDescription": "إنّك مسجَّل كطالب يحمل شهادة موثَّقة",
   "learner-dash.courseCard.verifiedBannerRibbonAlt": "شارة الطالب الذي جرى التحقّق من هويّته",

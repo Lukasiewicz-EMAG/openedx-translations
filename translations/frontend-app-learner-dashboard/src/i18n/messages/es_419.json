@@ -4,7 +4,7 @@
   "learner-dash.title": "Inicio del alumno",
   "zendesk.supportTitle": "Soporte edX",
   "zendesk.selectTicketForm": "Elegir el tipo de solicitud:",
-  "learner-dash.courseCard.bannerAlt": "Miniatura del curso",
+  "learner-dash.courseCard.bannerAlt": "Miniatura del curso {courseName}",
   "learner-dash.courseCard.verifiedBanner": "Verificado",
   "learner-dash.courseCard.verifiedHoverDescription": "Usted está inscrito como un estudiante verificado",
   "learner-dash.courseCard.verifiedBannerRibbonAlt": "ID de la insignia o medalla verificada",

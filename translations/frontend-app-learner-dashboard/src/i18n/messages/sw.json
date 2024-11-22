@@ -4,7 +4,7 @@
   "learner-dash.title": "Nyumbani kwa Mwanafunzi",
   "zendesk.supportTitle": "Msaada wa edX",
   "zendesk.selectTicketForm": "Tafadhali chagua aina ya ombi lako:",
-  "learner-dash.courseCard.bannerAlt": "Kijipicha cha kozi",
+  "learner-dash.courseCard.bannerAlt": "Kijipicha cha kozi {courseName}",
   "learner-dash.courseCard.verifiedBanner": "Imethibitishwa",
   "learner-dash.courseCard.verifiedHoverDescription": "Umejiandikisha kama mwanafunzi aliyeidhinishwa",
   "learner-dash.courseCard.verifiedBannerRibbonAlt": "Kitambulisho Utepe/Beji Iliyothibitishwa",

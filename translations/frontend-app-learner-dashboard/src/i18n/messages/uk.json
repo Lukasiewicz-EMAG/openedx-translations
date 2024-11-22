@@ -4,7 +4,7 @@
   "learner-dash.title": "Дім учня",
   "zendesk.supportTitle": "Підтримка edX",
   "zendesk.selectTicketForm": "Виберіть тип запиту:",
-  "learner-dash.courseCard.bannerAlt": "Мініатюра курсу",
+  "learner-dash.courseCard.bannerAlt": "Мініатюра курсу {courseName}",
   "learner-dash.courseCard.verifiedBanner": "Перевірений",
   "learner-dash.courseCard.verifiedHoverDescription": "Ви підписані як верифікований студент",
   "learner-dash.courseCard.verifiedBannerRibbonAlt": "ID перевіреної стрічки/бейджу",

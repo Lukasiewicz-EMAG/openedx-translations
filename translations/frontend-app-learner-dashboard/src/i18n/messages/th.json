@@ -4,7 +4,7 @@
   "learner-dash.title": "บ้านผู้เรียน",
   "zendesk.supportTitle": "การสนับสนุน edX",
   "zendesk.selectTicketForm": "โปรดเลือกประเภทคำขอของคุณ:",
-  "learner-dash.courseCard.bannerAlt": "ภาพขนาดย่อของหลักสูตร",
+  "learner-dash.courseCard.bannerAlt": "ภาพขนาดย่อของหลักสูตร {courseName}",
   "learner-dash.courseCard.verifiedBanner": "ตรวจสอบแล้ว",
   "learner-dash.courseCard.verifiedHoverDescription": "คุณได้ทำการลงทะเบียนเป็นนักเรียนที่ได้รับการตรวจสอบแล้ว",
   "learner-dash.courseCard.verifiedBannerRibbonAlt": "คุณได้ทำการตรวจสอบรหัสของคุณแล้ว",

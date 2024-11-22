@@ -4,7 +4,7 @@
   "learner-dash.title": "Lærerens hjem",
   "zendesk.supportTitle": "edX support",
   "zendesk.selectTicketForm": "Vær venlig at vælge din anmodningstype:",
-  "learner-dash.courseCard.bannerAlt": "Kursus thumbnail",
+  "learner-dash.courseCard.bannerAlt": "Kursus thumbnail {courseName}",
   "learner-dash.courseCard.verifiedBanner": "Verificeret",
   "learner-dash.courseCard.verifiedHoverDescription": "Du er tilmeldt som verificeret kursust",
   "learner-dash.courseCard.verifiedBannerRibbonAlt": "ID-verificeret bånd/badge",

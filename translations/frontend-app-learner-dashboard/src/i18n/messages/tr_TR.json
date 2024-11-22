@@ -4,7 +4,7 @@
   "learner-dash.title": "Öğrenci Ana Sayfası",
   "zendesk.supportTitle": "edX Destek",
   "zendesk.selectTicketForm": "Lütfen talep türünüzü seçiniz:",
-  "learner-dash.courseCard.bannerAlt": "Kurs küçük resmi",
+  "learner-dash.courseCard.bannerAlt": "Kurs küçük resmi {courseName}",
   "learner-dash.courseCard.verifiedBanner": "Onaylanmış",
   "learner-dash.courseCard.verifiedHoverDescription": "Doğrulanmış öğrenci olarak kayıtlandınız",
   "learner-dash.courseCard.verifiedBannerRibbonAlt": "Kimliği Doğrulanmış Şerit/Rozet",
