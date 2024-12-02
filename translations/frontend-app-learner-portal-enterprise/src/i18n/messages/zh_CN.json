@@ -33,7 +33,7 @@
   "enterprise.course.about.course.sidebar.who.can.take.this.course.description": "遗憾的是，来自以下一个或多个国家或地区的学习者将无法注册本课程：伊朗、古巴和乌克兰克里米亚地区。虽然 edX 已向美国外国资产控制办公室 (OFAC) 寻求许可，以便向这些国家和地区的学习者提供我们的课程，但我们获得的许可范围不够广泛，无法让我们在所有地点提供该课程。 EdX 深表遗憾的是，美国的制裁使我们无法向每个人提供所有课程，无论他们住在哪里。",
   "enterprise.course.about.course.materials.button.label": "查看课程材料",
   "enterprise.course.about.course.sidebar.recommendations": "您可能喜欢的课程：",
-  "enterprise.course.about.course.sidebar.recommendations.same.partner": "来自 { firstCourseOwner } 的更多信息：",
+  "enterprise.course.about.course.sidebar.recommendations.same.partner": "来自 {firstCourseOwner} 的更多信息：",
   "course.about.reviews.averageRating": "<b>{reviewsCount}</b>名学习者在完成后的调查中对该课程进行了评分。",
   "enterprise.course.about.course.reviews.confident.learners.percentage": "我们询问参加本课程的学习者，他们对该课程将帮助他们实现目标有多大信心。{confidentLearnersPercentage} <b>{confidentLearnersPercentage}</b>的学习者表示，他们<b>“非常有信心”</b>或<b>“非常有信心”</b>他们在课程中学到的知识将帮助他们实现目标。",
   "enterprise.course.about.course.reviews.most.common.goal.learners.percentage": "我们要求参加本课程的学习者选择参加该课程的原因。选项包括：“学习有价值的技能”、“工作晋升”、“为了乐趣而学习”和“改变职业”。 <b>{mostCommonGoalLearnersPercentage}</b>参加本课程的学习者通过该课程<b>学习了宝贵的技能</b>。",

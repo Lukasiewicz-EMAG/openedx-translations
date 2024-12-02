@@ -33,7 +33,7 @@
   "enterprise.course.about.course.sidebar.who.can.take.this.course.description": "למרבה הצער, לומדים מאחת או יותר מהמדינות או האזורים הבאים לא יוכלו להירשם לקורס זה: איראן, קובה ואזור קרים באוקראינה. בעוד edX חיפשה רישיונות מהמשרד האמריקאי לבקרת נכסים זרים (OFAC) להציע את הקורסים שלנו ללומדים במדינות ובאזורים אלה, הרישיונות שקיבלנו אינם רחבים מספיק כדי לאפשר לנו להציע קורס זה בכל המיקומים. EdX באמת מצטער על כך שהסנקציות בארה&quot;ב מונעות מאיתנו להציע את כל הקורסים שלנו לכולם, לא משנה היכן הם מתגוררים.",
   "enterprise.course.about.course.materials.button.label": "צפו בחומרי הקורס",
   "enterprise.course.about.course.sidebar.recommendations": "קורסים שאולי תאהבו:",
-  "enterprise.course.about.course.sidebar.recommendations.same.partner": "עוד מאת { firstCourseOwner }:",
+  "enterprise.course.about.course.sidebar.recommendations.same.partner": "עוד מאת {firstCourseOwner}:",
   "course.about.reviews.averageRating": "<b>{reviewsCount}</b> לומדים דירגו את הקורס הזה בסקר שלאחר השלמתו.",
   "enterprise.course.about.course.reviews.confident.learners.percentage": "שאלנו את הלומדים שהשתתפו בקורס זה עד כמה הם בטוחים שהקורס יעזור להם להגיע ליעדם. <b>{confidentLearnersPercentage} %</b> מהלומדים אמרו שהם <b>&quot;בטוחים מאוד&quot;</b> או <b>&quot;בטוחים מאוד&quot;</b> שהלמידה שהם עשו בקורס תעזור להם להגיע ליעדים שלהם.",
   "enterprise.course.about.course.reviews.most.common.goal.learners.percentage": "ביקשנו מהלומדים שנרשמו לקורס זה לבחור את הסיבה ללימודו. האפשרויות היו: &quot;למד מיומנויות יקרות ערך&quot;, &quot;קידום בעבודה&quot;, &quot;למד בשביל הכיף&quot; ו&quot;שנה קריירה&quot;. <b>{mostCommonGoalLearnersPercentage} %</b> מהלומדים שנרשמו לקורס זה לקחו אותו כדי <b>ללמוד מיומנויות חשובות</b> .",

@@ -46,7 +46,7 @@
   "account.settings.field.name.verified.submitted.message.header": "Sua solicitação de alteração de nome está quase concluída!",
   "account.settings.field.email": "Endereço de email (Entrar)",
   "account.settings.field.email.empty": "Adicionar endereço de email",
-  "account.settings.field.email.confirmation": "Enviamos uma mensagem de confirmação para [value]. Clique no link da mensagem para atualizar seu endereço de email.",
+  "account.settings.field.email.confirmation": "Enviamos uma mensagem de confirmação para {value}. Clique no link da mensagem para atualizar seu endereço de email.",
   "account.settings.field.email.help.text": "Você recebe mensagens de {siteName} e equipes do curso neste endereço.",
   "account.settings.field.secondary.email": "Recuperar endereço de email",
   "account.settings.field.secondary.email.empty": "Adicionar um endereço de email de recuperação",

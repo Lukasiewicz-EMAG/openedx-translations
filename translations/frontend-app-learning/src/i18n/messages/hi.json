@@ -27,7 +27,7 @@
   "learning.activeEnterprise.alert": "{changeActiveEnterprise} .",
   "learning.activeEnterprise.change.alert": "अभी उद्यम बदलें",
   "learning.outline.alert.start.short": "कोर्स स्टार्ट हो रहा है {timeRemaining} अट {courseStartTime} |",
-  "learning.outline.alert.start.long": "कोर्स शुरू हो रहा है { timeRemaining} ऑन {courseSrartDate} |",
+  "learning.outline.alert.start.long": "कोर्स शुरू हो रहा है {timeRemaining} ऑन {courseSrartDate} |",
   "learning.outline.alert.start.calendar": "कलेंडर ऋमाईनडॉ अदद करना ना भूले !",
   "instructorToolbar.pageBanner.courseHasNotStarted": "इस शिक्षार्थी के पास अभी तक इस पाठ्यक्रम तक पहुंच नहीं है। पाठ्यक्रम {date} पर शुरू होता है।",
   "learning.enrollment.alert": "पाठ्यक्रम सामग्री देखने के लिए आपको पाठ्यक्रम में नामांकित होना चाहिए।",
