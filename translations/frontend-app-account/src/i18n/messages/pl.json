@@ -351,5 +351,9 @@
   "notification.preference.help.push": "Push",
   "notification.preference.load.more.courses": "Załaduj więcej kursów",
   "notification.preference.guide.link": "jak szczegółowo opisano tutaj",
-  "notification.preference.guide.body": "Powiadomienia dla niektórych aktywności są włączone domyślnie, "
+  "notification.preference.guide.body": "Powiadomienia dla niektórych aktywności są włączone domyślnie, ",
+  "account.footer.privacyPolicyLinkLabel": "Polityka prywatności",
+  "account.footer.termsOfServiceLinkLabel": "Warunki świadczenia usług",
+  "account.footer.accessibilityLinkLabel": "Deklaracja dostępności",
+  "account.footer.helpLinkLabel": "Pomoc"
 }
