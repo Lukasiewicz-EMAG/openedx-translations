@@ -154,6 +154,7 @@
   "datesBanner.resetDatesBanner.header": "It looks like you missed some important deadlines based on our suggested schedule.",
   "datesBanner.resetDatesBanner.body": "To keep yourself on track, you can update this schedule and shift the past due assignments into the future. Don’t worry—you won’t lose any of the progress you’ve made when you shift your due dates.",
   "datesBanner.resetDatesBanner.button": "Shift due dates",
+  "learn.navigation.course.tabs.myCourses": "My Courses",
   "learn.breadcrumb.navigation.course.home": "Course",
   "notification.tray.container": "Notification tray",
   "notification.open.button": "Show notification tray",
